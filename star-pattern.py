@@ -10,3 +10,7 @@ print ("\n--------------------\n")
 
 for i in range (1, 20):
     print ((((20 - i) * " ") + ("*" * i)) + ("*" * i))
+
+print ("\nPRINT A SQUARE\n")
+for i in range (1, 10):
+    print "*"*10
