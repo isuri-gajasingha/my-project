@@ -8,7 +8,7 @@ def perimeter(b, h):
  P = 2 * (b+h)
  return P
 
-width = 5
-height = 3
+width = 10
+height = 15
 print "Area = ", area(width, height)
 print "Perimeter = ", perimeter(width, height)
