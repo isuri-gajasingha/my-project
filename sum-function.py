@@ -2,7 +2,7 @@ def _sum(arr,n):
     return(sum(arr)) 
   
 arr=[]
-arr = [12, 3, 4, 15] 
+arr = [12, 3, 4, 15, 34, 56, 234] 
   
 n = len(arr) 
 ans = _sum(arr,n) 
